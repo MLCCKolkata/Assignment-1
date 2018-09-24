@@ -1,5 +1,5 @@
 # Assignment-1
-Assignment 1 for MLCC.
+Assignment 1 for MLCC Kolkata Study Jams.
 
 Fill this [form](https://goo.gl/forms/XoyKc1qHVCf0M2383) in order to register for the MLCC Certification.
 
