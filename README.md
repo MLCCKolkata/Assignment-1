@@ -1,7 +1,7 @@
 # Assignment-1
 Assignment 1 for MLCC Kolkata Study Jams.
 
-Fill this [form](https://goo.gl/forms/XoyKc1qHVCf0M2383) in order to register for the MLCC Certification.
+Fill this [form](https://goo.gl/forms/XoyKc1qHVCf0M2383) for Assessment.
 
 Go through the notebooks below to brush up your python skills:  
 1) [001_basics](http://bit.ly/pytntg_001)
